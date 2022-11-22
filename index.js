@@ -11,12 +11,9 @@ btn.addEventListener('click' , ()=> {
   document.getElementById('card-title').innerHTML = textoValue;
   document.getElementById('card-img-top').src = urlValue;
   document.getElementById('card-text').innerHTML = areaTextValue;
-  
- 
-
-  console.log();
-
 });
+
+
 
 /*
 let count = document.getElementById('div').children.length;
